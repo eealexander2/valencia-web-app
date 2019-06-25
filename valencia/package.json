@@ -5,10 +5,12 @@
   "dependencies": {
     "@appbaseio/reactivemaps": "^3.0.0-alpha.7",
     "@appbaseio/reactivesearch": "^3.0.0-rc.16",
+    "@types/react-dom": "^16.8.4",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-router-dom": "^5.0.1",
-    "react-scripts": "3.0.1"
+    "react-scripts": "3.0.1",
+    "typescript": "^3.5.2"
   },
   "scripts": {
     "start": "react-scripts start",
